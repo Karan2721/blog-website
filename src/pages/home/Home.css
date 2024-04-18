@@ -1,0 +1,13 @@
+.color{
+    position: relative;
+    width: 50%;
+    height: 50vw;
+    left: 50%;
+    background-color: #F77F00;
+    margin: 0;
+}
+.home-svg{
+    position: absolute;
+    top:40%;
+    left:20%;
+}
